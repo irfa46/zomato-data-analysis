@@ -77,3 +77,5 @@ Couples prefer restaurants costing around ₹300
 Cost alone does not guarantee higher ratings
 
 Cafes have slightly higher average ratings despite fewer votes
+![Restaurant Type Count](restaurant_type_count.png)
+
