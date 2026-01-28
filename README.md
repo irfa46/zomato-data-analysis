@@ -78,6 +78,6 @@ Cost alone does not guarantee higher ratings
 
 Cafes have slightly higher average ratings despite fewer votes
 ![Restaurant Type Count](Average_Rating_by_Type.png)
-![Restaurant Type Count](most_voted_restuarant.png)
+
 
 
